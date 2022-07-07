@@ -2,6 +2,9 @@
 
 ### Build path from waypoints, ordered empty `GameObjects` with only `Transform` component.
 
+**Note:** compatible with Unity 5.6.4+, CarController and Car from Standard Assets included w/o any modifications.
+
+
 ![demo](Docs/follower-demo.gif "Demo")
 
 ### Package contains scripts for:
